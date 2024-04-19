@@ -89,7 +89,7 @@
 
 * 首次运行
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/andywell/sing-box/main/sing-box.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/andywell/sing-box-argo-/main/sing-box.sh)
 ```
 
 * 再次运行
